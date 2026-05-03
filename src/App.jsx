@@ -1,13 +1,13 @@
-import { useState } from 'react'
-import './App.css'
+import { use, useState } from 'react'
+
+import Articles from './components/Articles'
+
+
 
 function App() {
- 
-
   return (
     <>
-     <h1>Ciao</h1>
-      
+      <Articles />
     </>
   )
 }
