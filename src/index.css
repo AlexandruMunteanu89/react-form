@@ -8,3 +8,14 @@ body {
 h1 {
     font-family: 'OpenDyslexic', sans-serif;
 }
+.list-style{
+  display: flex;
+  justify-content: space-between;
+}
+.card-style{
+  width: 450px;
+  margin-top: 1rem;
+}
+.add-form{
+  margin: 0.5rem 1rem;
+}
