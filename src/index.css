@@ -7,13 +7,15 @@ body {
 
 h1 {
     font-family: 'OpenDyslexic', sans-serif;
+    margin-top: 2rem;
+    padding-left: 1rem;
 }
 .list-style{
   display: flex;
   justify-content: space-between;
 }
 .card-style{
-  width: 450px;
+  width: 550px;
   margin-top: 1rem;
 }
 .add-form{
